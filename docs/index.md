@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**Move-Then-Operate: Behavioral Phasing for Human-Like Robotic Manipulation**|Ruiqi Wang Team|[2604.23620](http://arxiv.org/abs/2604.23620)|null|
+|**2026-04-26**|**Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-rich Manipulation**|Amirhossein H. Memar Team|[2604.23609](http://arxiv.org/abs/2604.23609)|null|
+|**2026-04-26**|**EgoLive: A Large-Scale Egocentric Dataset from Real-World Human Tasks**|Liang Lin Team|[2604.23570](http://arxiv.org/abs/2604.23570)|null|
+|**2026-04-25**|**Efficient Rationale-based Retrieval: On-policy Distillation from Generative Rerankers based on JEPA**|Luo Ji Team|[2604.23336](http://arxiv.org/abs/2604.23336)|null|
+|**2026-04-25**|**BridgeACT: Bridging Human Demonstrations to Robot Actions via Unified Tool-Target Affordances**|Wenzhao Lian Team|[2604.23249](http://arxiv.org/abs/2604.23249)|null|
+|**2026-04-25**|**From Coarse to Fine: Self-Adaptive Hierarchical Planning for LLM Agents**|Xu Chen Team|[2604.23194](http://arxiv.org/abs/2604.23194)|null|
+|**2026-04-24**|**Learning from the Best: Smoothness-Driven Metrics for Data Quality in Imitation Learning**|Yuchen Cui Team|[2604.23000](http://arxiv.org/abs/2604.23000)|null|
 |**2026-04-24**|**GCImOpt: Learning efficient goal-conditioned policies by imitating optimal trajectories**|Jesús F. Palacián Team|[2604.22724](http://arxiv.org/abs/2604.22724)|**[link](https://jongoiko.github.io/gcimopt/)**|
 |**2026-04-24**|**GazeVLA: Learning Human Intention for Robotic Manipulation**|Wentao Zhu Team|[2604.22615](http://arxiv.org/abs/2604.22615)|null|
 |**2026-04-24**|**QDTraj: Exploration of Diverse Trajectory Primitives for Articulated Objects Robotic Manipulation**|Stéphane Doncieux Team|[2604.22551](http://arxiv.org/abs/2604.22551)|**[link](https://kappel.web.isir.upmc.fr/trajectory_primitive_website)**|
@@ -2375,6 +2382,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**Multimodal QUD: Inquisitive Questions from Scientific Figures**|Junyi Jessy Li Team|[2604.23733](http://arxiv.org/abs/2604.23733)|null|
+|**2026-04-26**|**DynProto: Dynamic Prototype Evolution for Out-of-Distribution Detection**|Ruixuan Wang Team|[2604.23729](http://arxiv.org/abs/2604.23729)|null|
+|**2026-04-26**|**Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference**|Huaiyu Wa Team|[2604.23724](http://arxiv.org/abs/2604.23724)|null|
+|**2026-04-26**|**Agri-CPJ: A Training-Free Explainable Framework for Agricultural Pest Diagnosis Using Caption-Prompt-Judge and LLM-as-a-Judge**|Tao Fang Team|[2604.23701](http://arxiv.org/abs/2604.23701)|null|
+|**2026-04-26**|**Intention-Aware Semantic Agent Communications for AI Glasses**|Jun Zhang Team|[2604.23691](http://arxiv.org/abs/2604.23691)|null|
+|**2026-04-25**|**PushupBench: Your VLM is not good at counting pushups**|Shichao Pei Team|[2604.23407](http://arxiv.org/abs/2604.23407)|null|
+|**2026-04-25**|**Exploring Hierarchical Consistency and Unbiased Objectness for Open-Vocabulary Object Detection**|Bumsub Ham Team|[2604.23344](http://arxiv.org/abs/2604.23344)|null|
+|**2026-04-25**|**Lightweight and Production-Ready PDF Visual Element Parsing**|Paul Li Team|[2604.23276](http://arxiv.org/abs/2604.23276)|null|
+|**2026-04-25**|**AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval**|Yan Lu Team|[2604.23195](http://arxiv.org/abs/2604.23195)|null|
+|**2026-04-25**|**From Pixels to Explanations: Interpretable Diabetic Retinopathy Grading with CNN-Transformer Ensembles, Visual Explainability and Vision-Language Models**|Sarang Shaikh Team|[2604.23079](http://arxiv.org/abs/2604.23079)|null|
+|**2026-04-24**|**CheXmix: Unified Generative Pretraining for Vision Language Models in Medical Imaging**|Akshay Chaudhari Team|[2604.22989](http://arxiv.org/abs/2604.22989)|null|
+|**2026-04-23**|**SketchVLM: Vision language models can annotate images to explain thoughts and guide users**|Anh Totti Nguyen Team|[2604.22875](http://arxiv.org/abs/2604.22875)|null|
 |**2026-04-24**|**Contrastive Semantic Projection: Faithful Neuron Labeling with Contrastive Examples**|Maximilian Dreyer Team|[2604.22477](http://arxiv.org/abs/2604.22477)|null|
 |**2026-04-24**|**DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning**|Hyunwoo J. Kim Team|[2604.22281](http://arxiv.org/abs/2604.22281)|null|
 |**2026-04-24**|**CAGE-SGG: Counterfactual Active Graph Evidence for Open-Vocabulary Scene Graph Generation**|Siyuan Chen Team|[2604.22274](http://arxiv.org/abs/2604.22274)|null|
@@ -6387,6 +6406,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**Move-Then-Operate: Behavioral Phasing for Human-Like Robotic Manipulation**|Ruiqi Wang Team|[2604.23620](http://arxiv.org/abs/2604.23620)|null|
+|**2026-04-25**|**Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models**|Jinwoo Shin Team|[2604.23272](http://arxiv.org/abs/2604.23272)|**[link](https://jiminlx.github.io/MoSS)**|
+|**2026-04-25**|**Breaking Lock-In: Preserving Steerability under Low-Data VLA Post-Training**|Jeannette Bohg Team|[2604.23121](http://arxiv.org/abs/2604.23121)|null|
+|**2026-04-24**|**RL Token: Bootstrapping Online RL with Vision-Language-Action Models**|Liyiming Ke Team|[2604.23073](http://arxiv.org/abs/2604.23073)|null|
+|**2026-04-24**|**Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines**|Ang Li Team|[2604.23001](http://arxiv.org/abs/2604.23001)|**[link](https://openreview.net/forum?id=tAaWFpvnmm)**|
 |**2026-04-24**|**RedVLA: Physical Red Teaming for Vision-Language-Action Models**|Jiaming Ji Team|[2604.22591](http://arxiv.org/abs/2604.22591)|null|
 |**2026-04-24**|**CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models**|Ngan Le Team|[2604.22238](http://arxiv.org/abs/2604.22238)|null|
 |**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Sifei Liu Team|[2604.21924](http://arxiv.org/abs/2604.21924)|**[link](https://www.liuisabella.com/LoHoManip)**|
@@ -7413,6 +7437,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**QuietWalk: Physics-Informed Reinforcement Learning for Ground Reaction Force-Aware Humanoid Locomotion Under Diverse Footwear**|Yaochu Jin Team|[2604.23702](http://arxiv.org/abs/2604.23702)|null|
+|**2026-04-24**|**RecoverFormer: End-to-End Contact-Aware Recovery for Humanoid Robots**|Zihui Liu Team|[2604.22911](http://arxiv.org/abs/2604.22911)|null|
 |**2026-04-23**|**X2-N: A Transformable Wheel-legged Humanoid Robot with Dual-mode Locomotion and Manipulation**|Ling Shi Team|[2604.21541](http://arxiv.org/abs/2604.21541)|null|
 |**2026-04-23**|**A Replicable Robotics Awareness Method Using LLM-Enabled Robotics Interaction: Evidence from a Corporate Challenge**|P. Olivera Brizzio Team|[2604.21377](http://arxiv.org/abs/2604.21377)|null|
 |**2026-04-23**|**RPG: Robust Policy Gating for Smooth Multi-Skill Transitions in Humanoid Fighting**|Dong Wang Team|[2604.21355](http://arxiv.org/abs/2604.21355)|null|
@@ -7879,6 +7905,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-rich Manipulation**|Amirhossein H. Memar Team|[2604.23609](http://arxiv.org/abs/2604.23609)|null|
 |**2026-04-23**|**X2-N: A Transformable Wheel-legged Humanoid Robot with Dual-mode Locomotion and Manipulation**|Ling Shi Team|[2604.21541](http://arxiv.org/abs/2604.21541)|null|
 |**2026-04-23**|**FingerViP: Learning Real-World Dexterous Manipulation with Fingertip Visual Perception**|K. W. Samuel Au Team|[2604.21331](http://arxiv.org/abs/2604.21331)|null|
 |**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hanbyul Joo Team|[2604.20841](http://arxiv.org/abs/2604.20841)|**[link](https://snuvclab.github.io/devi/)**|
